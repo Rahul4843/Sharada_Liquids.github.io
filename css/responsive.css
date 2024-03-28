@@ -1,0 +1,85 @@
+.container {
+    flex-direction: column-reverse;
+    height: fit-content;
+    justify-content: center;
+    align-items: center;
+    width: 95%;
+  
+    
+
+}
+.rightcontainer{
+    width: auto;
+}
+
+.rightcontainer img {
+    width: 200px;
+    margin: 13px 0px;
+}
+.leftcontainer h1{
+    margin-top: 1.8rem;
+    font-size: 1.3rem;
+    font-weight: 800;
+    font: bolder;
+    
+}
+.leftcontainer p {
+    margin-bottom: 80px;
+    text-align: center;
+    font-size: 1.2rem;
+    margin-left: auto;
+   
+}
+.contact{
+    width: 85%;
+}
+.contact form input{
+    width: 16rem;
+}
+#message{
+    width: 16rem;
+}
+#su{
+    width: 40%;
+    margin: auto;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+#re{
+    width: 40%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+#ran img{
+    width: 100%;
+    display: inline;
+    margin: auto;
+}
+#ran ul{
+    width: 100%;
+}
+.icons{
+    width: 30%;
+   
+}
+.ending{
+    height: fit-content;
+}
+
+/* Gallery Page */
+.gallery {
+    flex-wrap: wrap;
+    height: fit-content ;
+}
+
+.mygalleries {
+    margin: 9px;
+
+}
+
+.footersection{
+    position: absolute;
+    bottom: 0;
+}
+
+
